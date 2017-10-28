@@ -1,0 +1,15 @@
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW8 - Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojResolveAssemblyReference.cache
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW8 - Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW8 - Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW8 - Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW8 - Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW9 - Spreadsheet - Save and Load\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW9 - Spreadsheet - Save and Load\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW9 - Spreadsheet - Save and Load\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojResolveAssemblyReference.cache
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW9 - Spreadsheet - Save and Load\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW9 - Spreadsheet - Save and Load\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW10 2nd test\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW10 2nd test\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW10 2nd test\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojResolveAssemblyReference.cache
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW10 2nd test\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\swchen\Desktop\WSU\2017 Spring Semester\CS 321\HW\HW10 2nd test\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
